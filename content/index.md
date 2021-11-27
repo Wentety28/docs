@@ -45,9 +45,6 @@ childGroups:
     octicon: 'RocketIcon'
     children:
     - get-started
-    - account-and-profile
-    - authentication
-    - billing
   - name: Collaborative coding
     octicon: 'CommentDiscussionIcon'
     children:
